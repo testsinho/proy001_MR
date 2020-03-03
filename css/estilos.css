@@ -1,7 +1,7 @@
 body {
-    background: rgba(255, 255, 255, .9);
+    background: rgba(255, 255, 255, 0.9);
     margin: 0;
-    color: #ca4511c4;
+    color: #235bf5e3;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -40,14 +40,17 @@ body {
     width: 300px;
     height: 350px;
     transition: 1000ms;
+    color: white;
 }
 
-.cabecera-content .logo {
+.cabecera-content .logoM {
     height: 100px;
     width: 100px;
+    fill: white;
 }
 
 .s_logos {
     height: 100px;
     width: 100px;
+    fill: red;
 }
